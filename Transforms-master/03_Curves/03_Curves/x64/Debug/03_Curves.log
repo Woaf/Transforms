@@ -1,0 +1,3 @@
+﻿  MyApp.cpp
+c:\users\balin\desktop\transforms-master\03_curves\03_curves\myapp.cpp(27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  03_Curves.vcxproj -> C:\Users\balin\Desktop\Transforms-master\03_Curves\x64\Debug\03_Curves.exe
